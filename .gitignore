@@ -64,5 +64,4 @@ outputs/
 .vscode/*.tar.gz
 *.tar.gz
 *.pth
-logs/
 outputs/
